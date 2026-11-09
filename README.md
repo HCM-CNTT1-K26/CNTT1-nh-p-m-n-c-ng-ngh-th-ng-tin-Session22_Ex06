@@ -4,3 +4,4 @@
 # CNTT1-nh-p-m-n-c-ng-ngh-th-ng-tin-Session22_Ex03
 # CNTT1-nh-p-m-n-c-ng-ngh-th-ng-tin-Session22_Ex04
 # CNTT1-nh-p-m-n-c-ng-ngh-th-ng-tin-Session22_Ex05
+# CNTT1-nh-p-m-n-c-ng-ngh-th-ng-tin-Session22_Ex06
